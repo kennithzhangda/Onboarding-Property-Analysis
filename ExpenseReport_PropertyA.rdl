@@ -501,7 +501,7 @@ WHERE p.Name = 'Property A'</CommandText>
                       </Style>
                     </TextRun>
                     <TextRun>
-                      <Value xml:space="preserve">  </Value>
+                      <Value xml:space="preserve"> </Value>
                       <Style>
                         <FontSize>8pt</FontSize>
                       </Style>
